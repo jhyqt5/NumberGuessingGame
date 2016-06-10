@@ -15,6 +15,7 @@
 		37C638401D0B223D00548EDA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37C6383E1D0B223D00548EDA /* LaunchScreen.storyboard */; };
 		37C6384B1D0B223D00548EDA /* NumberGuessingGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C6384A1D0B223D00548EDA /* NumberGuessingGameTests.swift */; };
 		37C638561D0B223D00548EDA /* NumberGuessingGameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C638551D0B223D00548EDA /* NumberGuessingGameUITests.swift */; };
+		37C638641D0B24C400548EDA /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C638631D0B24C300548EDA /* ResultsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		37C638511D0B223D00548EDA /* NumberGuessingGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NumberGuessingGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		37C638551D0B223D00548EDA /* NumberGuessingGameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberGuessingGameUITests.swift; sourceTree = "<group>"; };
 		37C638571D0B223D00548EDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37C638631D0B24C300548EDA /* ResultsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				37C638321D0B223D00548EDA /* AppDelegate.swift */,
 				37C638341D0B223D00548EDA /* ViewController.swift */,
 				37C638361D0B223D00548EDA /* Main.storyboard */,
+				37C638631D0B24C300548EDA /* ResultsViewController.swift */,
 				37C6383C1D0B223D00548EDA /* Assets.xcassets */,
 				37C6383E1D0B223D00548EDA /* LaunchScreen.storyboard */,
 				37C638411D0B223D00548EDA /* Info.plist */,
@@ -262,6 +265,7 @@
 				37C6383B1D0B223D00548EDA /* NumberGuessingGame.xcdatamodeld in Sources */,
 				37C638351D0B223D00548EDA /* ViewController.swift in Sources */,
 				37C638331D0B223D00548EDA /* AppDelegate.swift in Sources */,
+				37C638641D0B24C400548EDA /* ResultsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
